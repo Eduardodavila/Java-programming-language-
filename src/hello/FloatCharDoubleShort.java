@@ -29,6 +29,13 @@ public class FloatCharDoubleShort {
         char myChar = 'E';
         System.out.println("My Char is: " + myChar);
 
+        //Boolean = true or false, 1 or 0
+        boolean myBoolean1 = true;
+        // boolean myBoolean2 = 1; error
+
+        // System.out.println("My Boolean is: " + myBoolean1 + "\t" + myBoolean2); error myBoolean2
+        System.out.println("My Boolean is: " + myBoolean1);
+
     }
 
 
