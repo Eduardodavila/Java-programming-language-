@@ -20,3 +20,11 @@ public class if101 {
 
     }
 }
+/* Relational Operators
+* == comparison, not assignment
+* != NOT equal
+* > greater than
+* < less then
+* >= Greater then or equal
+* <= less then or equal
+ */
