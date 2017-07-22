@@ -12,13 +12,16 @@ public class IntroMethWithReturnTypes {
 
         System.out.println(showChar('E'));
 
+        //Return value method returnIntegerInteger
+        System.out.println(returnIntegerInteger(10, 1));
+
     }
 
 
     public static void returnIntegerVoid(int a, int b) {
         System.out.println("returnIntegerVoid = " + (a + b));
     }
-
+// Return an integer
     public static int returnIntegerInteger(int a, int b){
         return (a + b);
     }
