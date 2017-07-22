@@ -1,4 +1,4 @@
-package hello;
+package basicJava;
 /* Logical Operators
 * AND(&&)
 * OR(||)

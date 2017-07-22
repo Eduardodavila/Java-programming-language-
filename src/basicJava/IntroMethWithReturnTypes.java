@@ -1,4 +1,4 @@
-package hello;
+package basicJava;
 
 public class IntroMethWithReturnTypes {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package hello;
+package basicJava;
 
 /**
  * Created by Eduardo on 15/07/2017.

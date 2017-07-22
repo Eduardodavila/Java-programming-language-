@@ -1,4 +1,4 @@
-package hello;
+package basicJava;
 
 /* for loop
    while loop

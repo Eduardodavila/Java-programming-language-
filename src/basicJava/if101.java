@@ -1,4 +1,4 @@
-package hello;
+package basicJava;
 
 public class if101 {
     public static void main(String[] args) {
