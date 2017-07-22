@@ -4,11 +4,12 @@ public class Ball {
 
     public String color;
     public String name;
+    public int capacity;
     public int bounceRate;
 
     //Behaviors
 
-    public void dounce(){
+    public void bounce() {
         System.out.println("Bouncing");
     }
 
@@ -17,7 +18,7 @@ public class Ball {
     }
 
     public void inflates(){
-        System.out.println("Infating....");
+        System.out.println("Inflating....");
     }
 
 }
