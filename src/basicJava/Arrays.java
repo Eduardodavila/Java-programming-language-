@@ -5,6 +5,7 @@ public class Arrays {
 
         int[] myArray = {1, 2, 3, 4};
         String[] myStringArray = {"Hello", "Hi", "What"};
+        int[] newArray = new int[5];
 
         System.out.println(myArray[0]);
         System.out.println(myStringArray[0]);
