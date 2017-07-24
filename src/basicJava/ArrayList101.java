@@ -10,6 +10,9 @@ public class ArrayList101 {
         animals.add("Pig");
         animals.add("Cow");
         animals.add("Parrot");
+        //animals.remove(0);
+        animals.add(0, "Elephants");
+        animals.add("Pork");
 
 
         System.out.println(animals);
@@ -19,7 +22,10 @@ public class ArrayList101 {
         }
 
         for (Object animal : animals) {
-            System.out.println(animal);
+            int i = 0;
+
+            System.out.println(animal + " " + animals.size());
+
         }
 
     }
